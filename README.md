@@ -1,2 +1,2 @@
 # iPayEnvNfcCardReader
-Read Credit Card whichembedded with an NFC chip
+Read Credit Card which embedded with an NFC chip
